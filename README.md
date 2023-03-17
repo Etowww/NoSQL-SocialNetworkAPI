@@ -1,42 +1,17 @@
-# <Your-Project-Title>
+# NoSQL Social Network API
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+MongoDB is an increasingly popular database choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. Since it is so popular it is important as developers that we fundamentally understand MongoDB and how it can be used build and structure the API. To emphasize this I have tried to create a Social Network API that users can share their thoughts, react to friends thoughts, and create a friends list.
 
 ## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+If you would like to try and run this application on your local machine first clone this code onto your machine.
+After that navigate into the root directory of the cloned code and run `npm install` to get all the necessary dependencies. You can then run `node server.js` to spin up the backend / api. You will now be able to test the api routes on `http://localhost:3001/api/`.
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+I will link a walkthrough video that demonstrates testing the API in Insomnia below:
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 MIT License
@@ -61,14 +36,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Badges
-
-## Features
-
-
 ## How to Contribute
-
+Obviously this application is only the basic backend / api for a social network. Future development would definitely include implementing any front end at all.
 
 ## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+N/A
