@@ -10,6 +10,8 @@ After that navigate into the root directory of the cloned code and run `npm inst
 ## Usage
 I will link a walkthrough video that demonstrates testing the API in Insomnia below:
 
+https://drive.google.com/file/d/1quptn0d5leCMGL6oVKoagq1KocZa-zpe/view?usp=share_link
+
 ## Credits
 N/A
 
